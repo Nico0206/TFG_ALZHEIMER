@@ -1,7 +1,7 @@
 # TFG_ALZHEIMER
 # TFG: Desarrollo de un Modelo Predictivo para Identificar el Riesgo de Alzheimer
 
-Este proyecto de fin de grado (TFG) tiene como objetivo desarrollar un modelo predictivo para clasificar a pacientes en función de sus datos clínicos y biomarcadores en tres categorías: **CN (Cognición Normal)**, **MCI (Mild Cognitive Impairment)** y **AD (Alzheimer's Disease)**. El proyecto se basa en el uso de técnicas de **Machine Learning (ML)** para la predicción temprana de Alzheimer, utilizando datos clínicos y biomarcadores como **P-tau181** y **Neurofilament Light (NfL)**.
+Este proyecto de fin de grado (TFG) tiene como objetivo desarrollar un modelo predictivo para clasificar a pacientes en función de sus datos clínicos y biomarcadores en tres categorías: **CN (Cognición Normal)**, **MCI (Mild Cognitive Impairment)** y **AD (Alzheimer's Disease)**. El proyecto se basa en el uso de técnicas de **Machine Learning (ML)** para la predicción temprana de Alzheimer, utilizando datos clínicos y biomarcadores como **P-tau181** y **Neurofilament Light (NfL)**. Los datos son sacados del repositorio de ADNI. 
 
 ## Descripción
 
